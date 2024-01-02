@@ -1,0 +1,13 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('https://usagif.com/wp-content/uploads/gifs/sun-13.gif');
+    background-position: center;
+    background-size: cover;
+}
+.app__loading{
+    width: 100vw;
+    height: 100vh;
+}
